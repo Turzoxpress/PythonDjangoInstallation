@@ -1,6 +1,7 @@
+# How to create a Python Django project?
+
 ![Alt text](/screenshots/python_django.gif "Python Django")
 
-# How to create a Python Django project?
 Make sure you have python 3 installed on your machine. This tutorial will be covered based on Ubuntu 20 OS. <br>
 
 [Visit this link if you didn't install Python yet!](https://www.python.org/downloads/) 
