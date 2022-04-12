@@ -28,11 +28,6 @@ Make sure you have python 3 installed on your machine. This tutorial will be cov
   sudo chmod -R 777 ./ #You can edit permission later
 ```
 
-* Install **pip** and **Python Virtual Environment**  <br>
-
-```python 
-  sudo apt install python3-pip python3-venv
-```
 
 * Create your **Python Virtual Environment**, here I named it **my_env**  <br>
 
